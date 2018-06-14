@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/wangxw1989/ABT/master/ABT.ipa</string>
+                    <string>http://192.168.0.60/ambuManagerEsb/ABT.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/wangxw1989/ABT/master/ABT_512x512.png</string>
+                    <string>http://192.168.0.60/ambuManagerEsb/ABT_512x512.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/wangxw1989/ABT/master/ABT_57x57.png</string>
+                    <string>http://192.168.0.60/ambuManagerEsb/ABT_57x57.png</string>
                 </dict>
             </array>
             <key>metadata</key>
